@@ -1,0 +1,42 @@
+img {
+  width:100%;
+  border-radius: 1em;
+}
+
+body {
+  background-color: blanchedalmond;
+}
+
+.jumbotron {
+  background-color: aquamarine;
+  text-align: center;
+  display: block;
+  position:fixed;
+  width: 100vw;
+  height: 5em;
+  top: 0;
+  margin: 0px;
+  padding:0px;
+  z-index:1;
+
+}
+
+.row {
+  padding-top: 200px;
+}
+
+.card {
+  margin-bottom: 1em;
+  border-radius: 4em;
+}
+
+.card-title {
+  text-align: center;
+  font-weight: bold;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: rgb(150, 50, 50)
+}
+
+.card-text {
+  margin: 1em 0 1em 0
+}
